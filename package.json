@@ -1,0 +1,32 @@
+{
+  "name": "npm-collection-npm-tools",
+  "version": "1.0.0",
+  "description": "Tools for working with npm itself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeke/npm-collection-npm-tools.git"
+  },
+  "keywords": [
+    "npm",
+    "collection"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/npm-collection-npm-tools/issues"
+  },
+  "homepage": "https://github.com/zeke/npm-collection-npm-tools#readme",
+  "dependencies": {
+    "get-email-address-from-npm-username": "^1.1.0",
+    "next-update": "^0.7.6",
+    "npm-keyword": "^1.1.1",
+    "npmwd": "^1.1.0",
+    "package-json": "^1.1.0",
+    "package-json-to-readme": "^1.4.1",
+    "registry-url": "^3.0.3"
+  }
+}
