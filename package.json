@@ -8,14 +8,18 @@
   },
   "dependencies": {
     "all-the-package-names": "^1.0.1",
+    "filter-npm-modules": "^1.0.0",
     "fixpack": "^2.2.0",
     "get-email-address-from-npm-username": "^1.1.0",
+    "is-npm-module": "^1.0.0",
     "next-update": "^0.7.6",
     "npm-keyword": "^1.1.1",
     "npmwd": "^1.1.0",
     "package-json": "^1.1.0",
     "package-json-to-readme": "^1.4.1",
-    "registry-url": "^3.0.3"
+    "registry-url": "^3.0.3",
+    "require-package-name": "^2.0.0",
+    "validate-npm-package-name": "^2.0.1"
   },
   "homepage": "https://github.com/zeke/npm-collection-npm-tools#readme",
   "keywords": [
